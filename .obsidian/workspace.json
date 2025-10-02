@@ -1,0 +1,281 @@
+{
+  "main": {
+    "id": "78df0ada05e0a2d9",
+    "type": "split",
+    "children": [
+      {
+        "id": "1cd51d0aa8e3e4f5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8816673c276df62b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Густова/Технологии физического уровня передачи данных/Лекция1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Лекция1"
+            }
+          },
+          {
+            "id": "e1d26f7119be6a63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Опалева/Лекция1 - Основные понятия, концепции ОС.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Лекция1 - Основные понятия, концепции ОС"
+            }
+          },
+          {
+            "id": "61edf997b00c3794",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Густова/Технологии физического уровня передачи данных/Лекция1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Лекция1"
+            }
+          },
+          {
+            "id": "1739d4f68087d859",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Густова/Технологии физического уровня передачи данных/Густова фото технологии/Pasted image 20250930194525.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250930194525"
+            }
+          },
+          {
+            "id": "dd1c154b59084f57",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Густова/Технологии физического уровня передачи данных/Густова фото технологии/Pasted image 20250930201410.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250930201410"
+            }
+          },
+          {
+            "id": "2136601c1cd95354",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Густова/Технологии физического уровня передачи данных/Густова фото технологии/Pasted image 20250930201225.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250930201225"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "e9320eb2c0627f6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc0260b1fe041bc1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b815667af6d38127",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Файловый менеджер"
+            }
+          },
+          {
+            "id": "cdc97ee8faf13966",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Поиск"
+            }
+          },
+          {
+            "id": "ca45b1d7fb95c556",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Закладки"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "865c0a789ff8bce7",
+    "type": "split",
+    "children": [
+      {
+        "id": "d242a7a84bbdb065",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "eaeece7848490d5d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Рохманько/Рохманько.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Рохманько"
+            }
+          },
+          {
+            "id": "7633387b5e7d016f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Рохманько/Рохманько.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки из Рохманько"
+            }
+          },
+          {
+            "id": "c003dfade8d990ae",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
+          },
+          {
+            "id": "38ce35162f91f705",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Рохманько/Рохманько.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Рохманько"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Меню быстрого перехода": false,
+      "graph:Граф": false,
+      "canvas:Создать новый холст": false,
+      "daily-notes:Сегодняшняя заметка": false,
+      "templates:Вставить шаблон": false,
+      "command-palette:Открыть палитру команд": false,
+      "bases:Создать новую базу": false
+    }
+  },
+  "active": "b815667af6d38127",
+  "lastOpenFiles": [
+    "Густова/Технологии физического уровня передачи данных/Густова фото технологии/Pasted image 20250930201410.png",
+    "Густова/Технологии физического уровня передачи данных/Густова фото технологии/Pasted image 20250930194525.png",
+    "Густова/Технологии физического уровня передачи данных/Лекция2.md",
+    "Густова/Технологии физического уровня передачи данных/Густова фото технологии/Pasted image 20250930201225.png",
+    "Густова/Технологии физического уровня передачи данных/Густова фото технологии/Pasted image 20250930201202.png",
+    "Густова/Технологии физического уровня передачи данных/Густова фото технологии/Pasted image 20250930201003.png",
+    "Густова/Технологии физического уровня передачи данных/Густова фото технологии/Pasted image 20250930200839.png",
+    "Густова/Технологии физического уровня передачи данных/Густова фото технологии/Pasted image 20250930195947.png",
+    "Густова/Технологии физического уровня передачи данных/Густова фото технологии/Pasted image 20250930195734.png",
+    "Густова/Технологии физического уровня передачи данных/Густова фото технологии/Pasted image 20250930195211.png",
+    "Густова/Технологии физического уровня передачи данных/Густова фото технологии/Pasted image 20250930194735.png",
+    "Густова/Информационные технологии и среды/Технологии обработки текстовой информации.md",
+    "Густова/Информационные технологии и среды/Густова фото ИТ",
+    "Густова/Технологии физического уровня передачи данных/Лекция1.md",
+    "Куликов/Лекция4.md",
+    "Куликов/Лекция2.md",
+    "Куликов/Лекция1.md",
+    "Куликов/Лекция3.md",
+    "Поклонский/Лекции Поклонский.md",
+    "Опалева/Лекция3 - Планирование процесса.md",
+    "Опалева/Лекция2 - Архитектура ОС.md",
+    "Опалева/Лекция1 - Основные понятия, концепции ОС.md",
+    "Рохманько/Лекция 5 - Организация разветвления в С++.md",
+    "Рохманько/Лекция 4 - Операция присваивания.md",
+    "Рохманько/Лекция 3 - ВВОД ВЫВОД данных на языке C C++.md",
+    "создайте ссылку.md",
+    "Рохманько/Лекция 2 - Выражения и операции C-C++.md",
+    "Рохманько/Лекция 1 - Основы программирования.md",
+    "Густова/Технологии физического уровня передачи данных/Домашняя работа.md",
+    "Поклонский",
+    "опрос устный опалева.md",
+    "Опалева/Фото Опалева",
+    "Густова/Технологии физического уровня передачи данных/Густова фото технологии",
+    "Густова/Информационные технологии и среды",
+    "Густова/Технологии физического уровня передачи данных",
+    "Фото куликов.md",
+    "Куликов/Фото куликов",
+    "ц",
+    "Добро пожаловать.md",
+    "Рохманько/фото рохманько",
+    "Опалева"
+  ]
+}
