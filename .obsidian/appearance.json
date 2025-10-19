@@ -1,5 +1,8 @@
 {
   "textFontFamily": "Calibri",
   "baseFontSizeAction": false,
-  "baseFontSize": 16
+  "baseFontSize": 16,
+  "theme": "system",
+  "cssTheme": "Obsidianite",
+  "accentColor": "#c800ff"
 }
